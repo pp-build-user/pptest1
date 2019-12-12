@@ -1,1 +1,3 @@
-docker push imposition-service2:wewqwqe
+#!/bin/bash
+docker push index.docker.io/perfectpattern/imposition-service2:wewqwqe
+
