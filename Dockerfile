@@ -1,3 +1,3 @@
-from alpine:3.3
+from alpine:3.2
 
 ENTRYPOINT ["cmd"]
